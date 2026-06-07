@@ -1,4 +1,4 @@
-# IT Automation Portfolio
+# IT Automation Portafolio
 
 Este portafolio muestra proyectos de automatización IT enfocados en eficiencia, reducción de errores y mejora de procesos.
 
